@@ -1,4 +1,4 @@
 import qrcode
 
-img = qrcode.make('https://villager-b.github.io/Simple_AR_CARD/')
+img = qrcode.make('https://keiichimorimoto.github.io/AR_test/')
 img.save('img/simple_qrcode.png')
